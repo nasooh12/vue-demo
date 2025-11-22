@@ -1,5 +1,3 @@
-<img width="687" height="820" alt="image" src="https://github.com/user-attachments/assets/78611f5a-904a-4a51-b33d-a3d796e07d88" /># vue-demo
-
 ## 변경사항 
 
 Vue2 예제 코드를 Vue3 Composition API 중심으로 리팩터링.
